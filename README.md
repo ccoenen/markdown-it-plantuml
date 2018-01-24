@@ -10,7 +10,7 @@ Bob -> Alice : hello
 @enduml
 ```
 
-See [plantuml website](plantuml.com) for more details.
+See [plantuml website](http://plantuml.com/) for more details.
 
 ## Installation
 
